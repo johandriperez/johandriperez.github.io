@@ -77,7 +77,7 @@ header .texts h3 {
 /*`MAIN*/
 
 .main {
-	background: url('../img/bg-textura.png');
+	background: url('https://res.cloudinary.com/do9krba4h/image/upload/v1697172434/bg-textura_mqsmzf.png');
 	background-repeat: repeat;
 }
 
